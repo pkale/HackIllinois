@@ -1,0 +1,4 @@
+/Users/pooja/AndroidStudioProjects/BasicNetworking/Application/build/intermediates/classes/debug
+/Users/pooja/AndroidStudioProjects/BasicNetworking/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-7112c7d6a3ca994e7171a529ff45439fe0c2ec4d.jar
+/Users/pooja/AndroidStudioProjects/BasicNetworking/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d445f4ee7976ba4dbfac75c619fd2c5d67188fb7.jar
+/Users/pooja/AndroidStudioProjects/BasicNetworking/Application/build/intermediates/pre-dexed/debug/classes-4c45c258fb3b05d068afaca2c12acd877445152b.jar
