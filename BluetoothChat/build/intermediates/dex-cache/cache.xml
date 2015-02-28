@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pooja/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-7112c7d6a3ca994e7171a529ff45439fe0c2ec4d.jar" />
+    </item>
+    <item
+        jar="/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-243478f227a25a248e6c05ec60bf3975f79644af.jar" />
+    </item>
+    <item
+        jar="/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-61e9d60f54cf2dc3626a4f57c9713c1a262402b6.jar" />
+    </item>
+    <item
+        jar="/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-e9a8eb602a7457c8ec2edcf680952849c5b260e9.jar" />
+    </item>
+    <item
+        jar="/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-9185bd05e82c2cfb05cd06faa33e7027d54f7810.jar" />
+    </item>
+
+</items>

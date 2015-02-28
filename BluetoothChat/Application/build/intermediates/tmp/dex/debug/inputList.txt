@@ -1,0 +1,6 @@
+/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/classes/debug
+/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-7112c7d6a3ca994e7171a529ff45439fe0c2ec4d.jar
+/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-9185bd05e82c2cfb05cd06faa33e7027d54f7810.jar
+/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-243478f227a25a248e6c05ec60bf3975f79644af.jar
+/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-61e9d60f54cf2dc3626a4f57c9713c1a262402b6.jar
+/Users/pooja/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-e9a8eb602a7457c8ec2edcf680952849c5b260e9.jar
